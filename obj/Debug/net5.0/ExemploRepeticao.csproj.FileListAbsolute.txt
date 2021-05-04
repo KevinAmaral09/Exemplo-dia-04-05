@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\ExemploRepeticao\bin\Debug\net5.0\ExemploRepeticao.exe
+C:\Users\dev\Desktop\ExemploRepeticao\bin\Debug\net5.0\ExemploRepeticao.deps.json
+C:\Users\dev\Desktop\ExemploRepeticao\bin\Debug\net5.0\ExemploRepeticao.runtimeconfig.json
+C:\Users\dev\Desktop\ExemploRepeticao\bin\Debug\net5.0\ExemploRepeticao.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ExemploRepeticao\bin\Debug\net5.0\ExemploRepeticao.dll
+C:\Users\dev\Desktop\ExemploRepeticao\bin\Debug\net5.0\ref\ExemploRepeticao.dll
+C:\Users\dev\Desktop\ExemploRepeticao\bin\Debug\net5.0\ExemploRepeticao.pdb
+C:\Users\dev\Desktop\ExemploRepeticao\obj\Debug\net5.0\ExemploRepeticao.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ExemploRepeticao\obj\Debug\net5.0\ExemploRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\ExemploRepeticao\obj\Debug\net5.0\ExemploRepeticao.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ExemploRepeticao\obj\Debug\net5.0\ExemploRepeticao.AssemblyInfo.cs
+C:\Users\dev\Desktop\ExemploRepeticao\obj\Debug\net5.0\ExemploRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ExemploRepeticao\obj\Debug\net5.0\ExemploRepeticao.dll
+C:\Users\dev\Desktop\ExemploRepeticao\obj\Debug\net5.0\ref\ExemploRepeticao.dll
+C:\Users\dev\Desktop\ExemploRepeticao\obj\Debug\net5.0\ExemploRepeticao.pdb
+C:\Users\dev\Desktop\ExemploRepeticao\obj\Debug\net5.0\ExemploRepeticao.genruntimeconfig.cache
